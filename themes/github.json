@@ -1,0 +1,22 @@
+{
+  "bright": {
+    "black": "#768390",
+    "blue": "#6cb6ff",
+    "cyan": "#96d0ff",
+    "green": "#8ddb8c",
+    "magenta": "#dcbdfb",
+    "red": "#f47067",
+    "white": "#adbac7",
+    "yellow": "#f69d50"
+  },
+  "normal": {
+    "black": "#2d333b",
+    "blue": "#6cb6ff",
+    "cyan": "#96d0ff",
+    "green": "#8ddb8c",
+    "magenta": "#dcbdfb",
+    "red": "#f47067",
+    "white": "#adbac7",
+    "yellow": "#f69d50"
+  }
+}
